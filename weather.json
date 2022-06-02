@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -121.971, "lat": 47.8554 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 75.29,
+    "feels_like": 75.38,
+    "temp_min": 68.76,
+    "temp_max": 79.25,
+    "pressure": 1009,
+    "humidity": 61
+  },
+  "visibility": 10000,
+  "wind": { "speed": 5.99, "deg": 347, "gust": 10 },
+  "clouds": { "all": 100 },
+  "dt": 1654203256,
+  "sys": {
+    "type": 2,
+    "id": 2017273,
+    "country": "US",
+    "sunrise": 1654171961,
+    "sunset": 1654228768
+  },
+  "timezone": -25200,
+  "id": 5803786,
+  "name": "Monroe",
+  "cod": 200
+}
